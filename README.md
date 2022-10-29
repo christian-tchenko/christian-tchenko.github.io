@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChristianTchenko96
+- 👋 Hi, I’m @TheAnimal03
 - 👀 I’m interested in Deep Learning and Mathematics
 - 🌱 I’m currently working on compressing Deep DNN for Computer vision tasks such as Object detection
 
