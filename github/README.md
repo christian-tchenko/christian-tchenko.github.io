@@ -11,6 +11,7 @@ This repository contains the python script to generate [my homepage](https://m-n
 6. Run `python build.py` which automatically generates the `index.html` file - the only file you need!
 7. Add credits and a link to my website; if you want me to also link to yours, send me a short message.
 
+
 ## Credits
 
 The overall design and open-sourcing the script is inspired by [Jon Barron's awesome template](https://jonbarron.info/) and some functionality is inspired by [Andreas Geiger's cool website](https://cvlibs.net)!
